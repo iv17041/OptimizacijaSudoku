@@ -1,0 +1,2 @@
+# OptimizacijaSudoku
+Mazais praktiskais darbs
